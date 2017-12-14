@@ -661,6 +661,10 @@ bcrypt-pbkdf@^1.0.0:
   dependencies:
     tweetnacl "^0.14.3"
 
+bencode@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/bencode/-/bencode-0.7.0.tgz#811ed647c0118945e41bb4bbbdea9a2c78a17083"
+
 bencode@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/bencode/-/bencode-1.0.0.tgz#0b83aea885b3547b579ada0c6a5e7739fe4d073e"
@@ -3630,6 +3634,14 @@ magnet-uri@^5.1.3:
 map-obj@^1.0.0, map-obj@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/map-obj/-/map-obj-1.0.1.tgz#d933ceb9205d82bdcf4886f6742bdc2b4dea146d"
+
+"mc_payment_handshake@https://github.com/machinomy/mc_payment_handshake#eth-ready":
+  version "1.0.0"
+  resolved "https://github.com/machinomy/mc_payment_handshake#464482229c068888261935e314e6c8983a48a964"
+  dependencies:
+    bencode "^0.7.0"
+    debug "^2.2.0"
+    inherits "^2.0.1"
 
 md5.js@^1.3.4:
   version "1.3.4"
