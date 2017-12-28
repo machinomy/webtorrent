@@ -3633,9 +3633,9 @@ map-obj@^1.0.0, map-obj@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/map-obj/-/map-obj-1.0.1.tgz#d933ceb9205d82bdcf4886f6742bdc2b4dea146d"
 
-"mc_payment_handshake@https://github.com/machinomy/mc_payment_handshake#eth-ready":
+"mc_payment_handshake@https://github.com/machinomy/mc_payment_handshake":
   version "1.0.0"
-  resolved "https://github.com/machinomy/mc_payment_handshake#82833683ee8b56d55188e4e35a2b1c4813b8263a"
+  resolved "https://github.com/machinomy/mc_payment_handshake#15913c8172b2d6bcbe4ae83b526d4499f92b1952"
   dependencies:
     bencode "^0.7.0"
     debug "^2.2.0"
