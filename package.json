@@ -38,7 +38,7 @@
     "immediate-chunk-store": "^1.0.8",
     "inherits": "^2.0.1",
     "load-ip-set": "^1.2.7",
-    "mc_payment_handshake": "https://github.com/machinomy/mc_payment_handshake",
+    "mc_payment_handshake": "https://github.com/machinomy/mc_payment_handshake#approve-reject-data",
     "memory-chunk-store": "^1.2.0",
     "mime": "^1.4.1",
     "multistream": "^2.0.5",
